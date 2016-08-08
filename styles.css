@@ -1,0 +1,10 @@
+*{
+    background: lightgray;
+    color: black;
+    font-size: 36px;
+}
+
+h1, h2, h3, h4, h5{
+    border: black 5px solid;
+    padding: 10px
+}
